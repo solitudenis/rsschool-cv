@@ -7,7 +7,6 @@
 - **Telegram**: [@Jokey](https://t.me/jokey)
 - **Discord**: @solitudenis
 - **E-mail**: d.typolkov@gmail.com
-- **Phone**: +7 928 211 96 01
 - **GitHub**: [@solitudenis](https://github.com/solitudenis)
 
 ---
