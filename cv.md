@@ -1,5 +1,5 @@
 # Tyapolkov Denis
-
+___
 ### Contacts
 
 - **Telegram**: [@Jokey](https://t.me/jokey)
@@ -8,11 +8,9 @@
 - **Phone**: +7 928 211 96 01
 - **GitHub**: [@solitudenis](https://github.com/solitudenis)
 ___
-
 ### About me
 Being a person who loves new and new places, it is important for me to be able to move freely not only within the country, but throughout the planet and I hope that my interest in computer technology and studying at this school will help me fulfill my desires.
 ___
-
 ### Skills
 
 - **Programming languages:**
@@ -33,7 +31,6 @@ ___
 - **Version control:**
 	- Git (basic commands)
 ___
-
 ### Code example
 
 ```
@@ -46,12 +43,10 @@ function doubleChar(str) {
 };
 ```
 ___
-
 ### Experience
 
 At different times in my life I was a waiter, a storekeeper, a courier, and a machine operator. Currently I work in a data processing team in one of the largest companies in my country.
 ___
-
 ### Education
 
 **Specialist degree at Kuban State Technological University, Krasnodar**
@@ -61,7 +56,6 @@ ___
 
 - Fundamentals of computer and web technologies with Python from Digitalize
 ___
-
 ### Languages
 
 - Russian native
