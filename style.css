@@ -1,11 +1,24 @@
 img {
-    max-width: 10%;
-    height: auto 10%;
-  }
+    max-width: 200px;
+    height: 200px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
 @font-face {
-  font-family: myFirstFont;
+  font-family: Opensans;
   src: url("./assets/fonts/OpenSans-VariableFont_wdth\,wght.ttf");
 }
+
 body {
-  font-family: myFirstFont;
+  font-family: Opensans;
+  margin: 30px;
+  padding: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
 }
