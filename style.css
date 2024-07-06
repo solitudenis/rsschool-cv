@@ -1,0 +1,11 @@
+img {
+    max-width: 10%;
+    height: auto 10%;
+  }
+@font-face {
+  font-family: myFirstFont;
+  src: url("./assets/fonts/OpenSans-VariableFont_wdth\,wght.ttf");
+}
+body {
+  font-family: myFirstFont;
+}
