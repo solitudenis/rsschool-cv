@@ -41,12 +41,16 @@ h1 {
 }
 
 ul {
-  
   display: flex;
   justify-content: space-between;
+  padding: 0;
 }
 
-
+.class-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}
 
 .rs-school-logo {
   width: 50px;
