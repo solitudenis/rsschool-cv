@@ -1,0 +1,138 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+ul{
+    list-style: none;
+}
+
+.avatar {
+    max-width: 200px;
+    height: 200px;
+    position: relative;
+}
+
+@font-face {
+  font-family: Opensans;
+  src: url("./assets/fonts/OpenSans-VariableFont_wdth\,wght.ttf");
+}
+
+body {
+  font-family: Opensans;
+  width: 75%;
+  margin: 0 auto;
+  background-color: bisque;
+  color: #a52a2a;
+}
+
+div {
+  padding: 25px;
+}
+
+a {
+  text-decoration: none;
+  color: brown;
+}
+
+nav {
+  border-right-style: solid;
+  padding: 25px;
+  font-weight: bold;
+  font-size: 130%;
+}
+
+header {
+  display: flex;
+  justify-content: flex-start;
+  align-content: end;
+  border-left-style: solid;
+  border-top-style: solid;
+  padding: 25px;
+}
+
+h1 {
+  font-size: 400%;
+  margin: 0;
+  padding: 20px;
+}
+
+h2 {
+  margin-bottom: 25px;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+}
+
+pre {
+  margin-left: -150px;
+}
+
+.column-lists {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}
+
+.rs-school-logo {
+  height: 50px;
+}
+
+.github-logo {
+  height: 30px;
+}
+
+.footer-year {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.contacts {
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+}
+
+.about-me {
+  border-left-style: solid;
+  border-bottom-style: solid;
+}
+
+.skills {
+  border-right-style: solid;
+  border-bottom-style: solid;
+}
+
+.code-example {
+  border-left-style: solid;
+  border-bottom-style: solid;
+}
+
+.experience {
+  border-right-style: solid;
+  border-bottom-style: solid;
+}
+
+.education {
+  border-left-style: solid;
+  border-bottom-style: solid;
+}
+
+.languages {
+  border-right-style: solid;
+  border-bottom-style: solid;
+}
+
+footer {
+  border-left-style: solid;
+  font-size: 150%;
+  display: flex;
+  justify-content: center;
+  padding: 25px;
+  align-items: center;
+}
